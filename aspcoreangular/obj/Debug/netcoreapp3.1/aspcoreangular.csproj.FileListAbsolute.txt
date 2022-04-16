@@ -1,0 +1,268 @@
+E:\Coding\Importence project\aspcoreangular\aspcoreangular\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\Coding\Importence project\aspcoreangular\aspcoreangular\bin\Debug\netcoreapp3.1\appsettings.json
+E:\Coding\Importence project\aspcoreangular\aspcoreangular\bin\Debug\netcoreapp3.1\aspcoreangular.exe
+E:\Coding\Importence project\aspcoreangular\aspcoreangular\bin\Debug\netcoreapp3.1\aspcoreangular.deps.json
+E:\Coding\Importence project\aspcoreangular\aspcoreangular\bin\Debug\netcoreapp3.1\aspcoreangular.runtimeconfig.json
+E:\Coding\Importence project\aspcoreangular\aspcoreangular\bin\Debug\netcoreapp3.1\aspcoreangular.runtimeconfig.dev.json
+E:\Coding\Importence project\aspcoreangular\aspcoreangular\bin\Debug\netcoreapp3.1\aspcoreangular.dll
+E:\Coding\Importence project\aspcoreangular\aspcoreangular\bin\Debug\netcoreapp3.1\aspcoreangular.pdb
+E:\Coding\Importence project\aspcoreangular\aspcoreangular\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Coding\Importence project\aspcoreangular\aspcoreangular\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+E:\Coding\Importence project\aspcoreangular\aspcoreangular\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Coding\Importence project\aspcoreangular\aspcoreangular\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+E:\Coding\Importence project\aspcoreangular\aspcoreangular\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Coding\Importence project\aspcoreangular\aspcoreangular\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+E:\Coding\Importence project\aspcoreangular\aspcoreangular\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Coding\Importence project\aspcoreangular\aspcoreangular\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Coding\Importence project\aspcoreangular\aspcoreangular\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+E:\Coding\Importence project\aspcoreangular\aspcoreangular\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+E:\Coding\Importence project\aspcoreangular\aspcoreangular\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+E:\Coding\Importence project\aspcoreangular\aspcoreangular\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Coding\Importence project\aspcoreangular\aspcoreangular\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+E:\Coding\Importence project\aspcoreangular\aspcoreangular\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+E:\Coding\Importence project\aspcoreangular\aspcoreangular\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Coding\Importence project\aspcoreangular\aspcoreangular\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+E:\Coding\Importence project\aspcoreangular\aspcoreangular\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Coding\Importence project\aspcoreangular\aspcoreangular\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+E:\Coding\Importence project\aspcoreangular\aspcoreangular\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\Coding\Importence project\aspcoreangular\aspcoreangular\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+E:\Coding\Importence project\aspcoreangular\aspcoreangular\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Coding\Importence project\aspcoreangular\aspcoreangular\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+E:\Coding\Importence project\aspcoreangular\aspcoreangular\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+E:\Coding\Importence project\aspcoreangular\aspcoreangular\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Coding\Importence project\aspcoreangular\aspcoreangular\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+E:\Coding\Importence project\aspcoreangular\aspcoreangular\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\Coding\Importence project\aspcoreangular\aspcoreangular\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+E:\Coding\Importence project\aspcoreangular\aspcoreangular\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+E:\Coding\Importence project\aspcoreangular\aspcoreangular\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+E:\Coding\Importence project\aspcoreangular\aspcoreangular\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+E:\Coding\Importence project\aspcoreangular\aspcoreangular\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+E:\Coding\Importence project\aspcoreangular\aspcoreangular\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\Coding\Importence project\aspcoreangular\aspcoreangular\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\Coding\Importence project\aspcoreangular\aspcoreangular\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\Coding\Importence project\aspcoreangular\aspcoreangular\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+E:\Coding\Importence project\aspcoreangular\aspcoreangular\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+E:\Coding\Importence project\aspcoreangular\aspcoreangular\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+E:\Coding\Importence project\aspcoreangular\aspcoreangular\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\Coding\Importence project\aspcoreangular\aspcoreangular\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\Coding\Importence project\aspcoreangular\aspcoreangular\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Coding\Importence project\aspcoreangular\aspcoreangular\obj\Debug\netcoreapp3.1\aspcoreangular.GeneratedMSBuildEditorConfig.editorconfig
+E:\Coding\Importence project\aspcoreangular\aspcoreangular\obj\Debug\netcoreapp3.1\aspcoreangular.AssemblyInfoInputs.cache
+E:\Coding\Importence project\aspcoreangular\aspcoreangular\obj\Debug\netcoreapp3.1\aspcoreangular.AssemblyInfo.cs
+E:\Coding\Importence project\aspcoreangular\aspcoreangular\obj\Debug\netcoreapp3.1\aspcoreangular.csproj.CoreCompileInputs.cache
+E:\Coding\Importence project\aspcoreangular\aspcoreangular\obj\Debug\netcoreapp3.1\aspcoreangular.MvcApplicationPartsAssemblyInfo.cache
+E:\Coding\Importence project\aspcoreangular\aspcoreangular\obj\Debug\netcoreapp3.1\staticwebassets\aspcoreangular.StaticWebAssets.Manifest.cache
+E:\Coding\Importence project\aspcoreangular\aspcoreangular\obj\Debug\netcoreapp3.1\staticwebassets\aspcoreangular.StaticWebAssets.xml
+E:\Coding\Importence project\aspcoreangular\aspcoreangular\obj\Debug\netcoreapp3.1\scopedcss\bundle\aspcoreangular.styles.css
+E:\Coding\Importence project\aspcoreangular\aspcoreangular\obj\Debug\netcoreapp3.1\aspcoreangular.RazorTargetAssemblyInfo.cache
+E:\Coding\Importence project\aspcoreangular\aspcoreangular\obj\Debug\netcoreapp3.1\aspcoreangular.csproj.CopyComplete
+E:\Coding\Importence project\aspcoreangular\aspcoreangular\obj\Debug\netcoreapp3.1\aspcoreangular.dll
+E:\Coding\Importence project\aspcoreangular\aspcoreangular\obj\Debug\netcoreapp3.1\aspcoreangular.pdb
+E:\Coding\Importence project\aspcoreangular\aspcoreangular\obj\Debug\netcoreapp3.1\aspcoreangular.genruntimeconfig.cache
+E:\Coding\Importence project\aspcoreangular\aspcoreangular\obj\Debug\netcoreapp3.1\aspcoreangular.csproj.AssemblyReference.cache
+E:\Coding\Importence project\aspcoreangular\aspcoreangular\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+E:\Coding\Importence project\aspcoreangular\aspcoreangular\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+E:\Coding\Importence project\aspcoreangular\aspcoreangular\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+E:\Coding\Importence project\aspcoreangular\aspcoreangular\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\Coding\Importence project\aspcoreangular\aspcoreangular\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+E:\Coding\Importence project\aspcoreangular\aspcoreangular\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+E:\Coding\Importence project\aspcoreangular\aspcoreangular\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\Coding\Importence project\aspcoreangular\aspcoreangular\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+E:\Coding\Importence project\aspcoreangular\aspcoreangular\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\Coding\Importence project\aspcoreangular\aspcoreangular\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+E:\Coding\Importence project\aspcoreangular\aspcoreangular\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\Coding\Importence project\aspcoreangular\aspcoreangular\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\Coding\Importence project\aspcoreangular\aspcoreangular\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\Coding\Importence project\aspcoreangular\aspcoreangular\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\Coding\Importence project\aspcoreangular\aspcoreangular\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+E:\Coding\Importence project\aspcoreangular\aspcoreangular\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+E:\Coding\Importence project\aspcoreangular\aspcoreangular\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+E:\Coding\Importence project\aspcoreangular\aspcoreangular\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+E:\Coding\Importence project\aspcoreangular\aspcoreangular\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+E:\Coding\Importence project\aspcoreangular\aspcoreangular\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+E:\Coding\Importence project\aspcoreangular\aspcoreangular\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+E:\Coding\Importence project\aspcoreangular\aspcoreangular\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+E:\Coding\Importence project\aspcoreangular\aspcoreangular\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+E:\Coding\Importence project\aspcoreangular\aspcoreangular\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+E:\Coding\Importence project\aspcoreangular\aspcoreangular\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+E:\Coding\Importence project\aspcoreangular\aspcoreangular\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+E:\Coding\Importence project\aspcoreangular\aspcoreangular\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+E:\Coding\Importence project\aspcoreangular\aspcoreangular\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+E:\Coding\Importence project\aspcoreangular\aspcoreangular\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\Coding\Importence project\aspcoreangular\aspcoreangular\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+E:\Coding\Importence project\aspcoreangular\aspcoreangular\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+E:\Coding\Importence project\aspcoreangular\aspcoreangular\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\Coding\Importence project\aspcoreangular\aspcoreangular\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\Coding\Importence project\aspcoreangular\aspcoreangular\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Coding\Importence project\aspcoreangular\aspcoreangular\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Coding\Importence project\aspcoreangular\aspcoreangular\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Coding\Importence project\aspcoreangular\aspcoreangular\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Coding\Importence project\aspcoreangular\aspcoreangular\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Coding\Importence project\aspcoreangular\aspcoreangular\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Coding\Importence project\aspcoreangular\aspcoreangular\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Coding\Importence project\aspcoreangular\aspcoreangular\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Coding\Importence project\aspcoreangular\aspcoreangular\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Coding\Importence project\aspcoreangular\aspcoreangular\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Coding\Importence project\aspcoreangular\aspcoreangular\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Coding\Importence project\aspcoreangular\aspcoreangular\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Coding\Importence project\aspcoreangular\aspcoreangular\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Coding\Importence project\aspcoreangular\aspcoreangular\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Coding\Importence project\aspcoreangular\aspcoreangular\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Coding\Importence project\aspcoreangular\aspcoreangular\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Coding\Importence project\aspcoreangular\aspcoreangular\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Coding\Importence project\aspcoreangular\aspcoreangular\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Coding\Importence project\aspcoreangular\aspcoreangular\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Coding\Importence project\aspcoreangular\aspcoreangular\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Coding\Importence project\aspcoreangular\aspcoreangular\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Coding\Importence project\aspcoreangular\aspcoreangular\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Coding\Importence project\aspcoreangular\aspcoreangular\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Coding\Importence project\aspcoreangular\aspcoreangular\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Coding\Importence project\aspcoreangular\aspcoreangular\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Coding\Importence project\aspcoreangular\aspcoreangular\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Coding\Importence project\aspcoreangular\aspcoreangular\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Coding\Importence project\aspcoreangular\aspcoreangular\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Coding\Importence project\aspcoreangular\aspcoreangular\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Coding\Importence project\aspcoreangular\aspcoreangular\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Coding\Importence project\aspcoreangular\aspcoreangular\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Coding\Importence project\aspcoreangular\aspcoreangular\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Coding\Importence project\aspcoreangular\aspcoreangular\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Coding\Importence project\aspcoreangular\aspcoreangular\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Coding\Importence project\aspcoreangular\aspcoreangular\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Coding\Importence project\aspcoreangular\aspcoreangular\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Coding\Importence project\aspcoreangular\aspcoreangular\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Coding\Importence project\aspcoreangular\aspcoreangular\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Coding\Importence project\aspcoreangular\aspcoreangular\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Coding\Importenceproject\aspcoreangular\aspcoreangular\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\Coding\Importenceproject\aspcoreangular\aspcoreangular\bin\Debug\netcoreapp3.1\appsettings.json
+E:\Coding\Importenceproject\aspcoreangular\aspcoreangular\bin\Debug\netcoreapp3.1\aspcoreangular.exe
+E:\Coding\Importenceproject\aspcoreangular\aspcoreangular\bin\Debug\netcoreapp3.1\aspcoreangular.deps.json
+E:\Coding\Importenceproject\aspcoreangular\aspcoreangular\bin\Debug\netcoreapp3.1\aspcoreangular.runtimeconfig.json
+E:\Coding\Importenceproject\aspcoreangular\aspcoreangular\bin\Debug\netcoreapp3.1\aspcoreangular.runtimeconfig.dev.json
+E:\Coding\Importenceproject\aspcoreangular\aspcoreangular\bin\Debug\netcoreapp3.1\aspcoreangular.dll
+E:\Coding\Importenceproject\aspcoreangular\aspcoreangular\bin\Debug\netcoreapp3.1\aspcoreangular.pdb
+E:\Coding\Importenceproject\aspcoreangular\aspcoreangular\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+E:\Coding\Importenceproject\aspcoreangular\aspcoreangular\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Coding\Importenceproject\aspcoreangular\aspcoreangular\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+E:\Coding\Importenceproject\aspcoreangular\aspcoreangular\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+E:\Coding\Importenceproject\aspcoreangular\aspcoreangular\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+E:\Coding\Importenceproject\aspcoreangular\aspcoreangular\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\Coding\Importenceproject\aspcoreangular\aspcoreangular\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+E:\Coding\Importenceproject\aspcoreangular\aspcoreangular\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+E:\Coding\Importenceproject\aspcoreangular\aspcoreangular\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Coding\Importenceproject\aspcoreangular\aspcoreangular\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+E:\Coding\Importenceproject\aspcoreangular\aspcoreangular\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Coding\Importenceproject\aspcoreangular\aspcoreangular\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+E:\Coding\Importenceproject\aspcoreangular\aspcoreangular\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Coding\Importenceproject\aspcoreangular\aspcoreangular\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Coding\Importenceproject\aspcoreangular\aspcoreangular\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+E:\Coding\Importenceproject\aspcoreangular\aspcoreangular\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+E:\Coding\Importenceproject\aspcoreangular\aspcoreangular\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+E:\Coding\Importenceproject\aspcoreangular\aspcoreangular\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Coding\Importenceproject\aspcoreangular\aspcoreangular\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+E:\Coding\Importenceproject\aspcoreangular\aspcoreangular\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+E:\Coding\Importenceproject\aspcoreangular\aspcoreangular\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Coding\Importenceproject\aspcoreangular\aspcoreangular\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+E:\Coding\Importenceproject\aspcoreangular\aspcoreangular\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Coding\Importenceproject\aspcoreangular\aspcoreangular\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+E:\Coding\Importenceproject\aspcoreangular\aspcoreangular\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\Coding\Importenceproject\aspcoreangular\aspcoreangular\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+E:\Coding\Importenceproject\aspcoreangular\aspcoreangular\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Coding\Importenceproject\aspcoreangular\aspcoreangular\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+E:\Coding\Importenceproject\aspcoreangular\aspcoreangular\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+E:\Coding\Importenceproject\aspcoreangular\aspcoreangular\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Coding\Importenceproject\aspcoreangular\aspcoreangular\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+E:\Coding\Importenceproject\aspcoreangular\aspcoreangular\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\Coding\Importenceproject\aspcoreangular\aspcoreangular\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+E:\Coding\Importenceproject\aspcoreangular\aspcoreangular\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\Coding\Importenceproject\aspcoreangular\aspcoreangular\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+E:\Coding\Importenceproject\aspcoreangular\aspcoreangular\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\Coding\Importenceproject\aspcoreangular\aspcoreangular\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\Coding\Importenceproject\aspcoreangular\aspcoreangular\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\Coding\Importenceproject\aspcoreangular\aspcoreangular\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\Coding\Importenceproject\aspcoreangular\aspcoreangular\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\Coding\Importenceproject\aspcoreangular\aspcoreangular\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+E:\Coding\Importenceproject\aspcoreangular\aspcoreangular\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+E:\Coding\Importenceproject\aspcoreangular\aspcoreangular\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+E:\Coding\Importenceproject\aspcoreangular\aspcoreangular\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+E:\Coding\Importenceproject\aspcoreangular\aspcoreangular\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+E:\Coding\Importenceproject\aspcoreangular\aspcoreangular\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+E:\Coding\Importenceproject\aspcoreangular\aspcoreangular\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+E:\Coding\Importenceproject\aspcoreangular\aspcoreangular\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+E:\Coding\Importenceproject\aspcoreangular\aspcoreangular\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+E:\Coding\Importenceproject\aspcoreangular\aspcoreangular\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+E:\Coding\Importenceproject\aspcoreangular\aspcoreangular\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+E:\Coding\Importenceproject\aspcoreangular\aspcoreangular\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\Coding\Importenceproject\aspcoreangular\aspcoreangular\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+E:\Coding\Importenceproject\aspcoreangular\aspcoreangular\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+E:\Coding\Importenceproject\aspcoreangular\aspcoreangular\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+E:\Coding\Importenceproject\aspcoreangular\aspcoreangular\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+E:\Coding\Importenceproject\aspcoreangular\aspcoreangular\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+E:\Coding\Importenceproject\aspcoreangular\aspcoreangular\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+E:\Coding\Importenceproject\aspcoreangular\aspcoreangular\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+E:\Coding\Importenceproject\aspcoreangular\aspcoreangular\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+E:\Coding\Importenceproject\aspcoreangular\aspcoreangular\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\Coding\Importenceproject\aspcoreangular\aspcoreangular\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+E:\Coding\Importenceproject\aspcoreangular\aspcoreangular\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+E:\Coding\Importenceproject\aspcoreangular\aspcoreangular\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\Coding\Importenceproject\aspcoreangular\aspcoreangular\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\Coding\Importenceproject\aspcoreangular\aspcoreangular\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Coding\Importenceproject\aspcoreangular\aspcoreangular\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Coding\Importenceproject\aspcoreangular\aspcoreangular\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Coding\Importenceproject\aspcoreangular\aspcoreangular\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Coding\Importenceproject\aspcoreangular\aspcoreangular\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Coding\Importenceproject\aspcoreangular\aspcoreangular\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Coding\Importenceproject\aspcoreangular\aspcoreangular\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Coding\Importenceproject\aspcoreangular\aspcoreangular\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Coding\Importenceproject\aspcoreangular\aspcoreangular\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Coding\Importenceproject\aspcoreangular\aspcoreangular\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Coding\Importenceproject\aspcoreangular\aspcoreangular\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Coding\Importenceproject\aspcoreangular\aspcoreangular\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Coding\Importenceproject\aspcoreangular\aspcoreangular\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Coding\Importenceproject\aspcoreangular\aspcoreangular\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Coding\Importenceproject\aspcoreangular\aspcoreangular\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Coding\Importenceproject\aspcoreangular\aspcoreangular\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Coding\Importenceproject\aspcoreangular\aspcoreangular\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Coding\Importenceproject\aspcoreangular\aspcoreangular\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Coding\Importenceproject\aspcoreangular\aspcoreangular\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Coding\Importenceproject\aspcoreangular\aspcoreangular\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Coding\Importenceproject\aspcoreangular\aspcoreangular\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Coding\Importenceproject\aspcoreangular\aspcoreangular\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Coding\Importenceproject\aspcoreangular\aspcoreangular\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Coding\Importenceproject\aspcoreangular\aspcoreangular\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Coding\Importenceproject\aspcoreangular\aspcoreangular\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Coding\Importenceproject\aspcoreangular\aspcoreangular\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Coding\Importenceproject\aspcoreangular\aspcoreangular\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Coding\Importenceproject\aspcoreangular\aspcoreangular\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Coding\Importenceproject\aspcoreangular\aspcoreangular\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Coding\Importenceproject\aspcoreangular\aspcoreangular\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Coding\Importenceproject\aspcoreangular\aspcoreangular\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Coding\Importenceproject\aspcoreangular\aspcoreangular\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Coding\Importenceproject\aspcoreangular\aspcoreangular\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Coding\Importenceproject\aspcoreangular\aspcoreangular\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Coding\Importenceproject\aspcoreangular\aspcoreangular\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Coding\Importenceproject\aspcoreangular\aspcoreangular\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Coding\Importenceproject\aspcoreangular\aspcoreangular\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Coding\Importenceproject\aspcoreangular\aspcoreangular\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Coding\Importenceproject\aspcoreangular\aspcoreangular\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Coding\Importenceproject\aspcoreangular\aspcoreangular\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\Coding\Importenceproject\aspcoreangular\aspcoreangular\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\Coding\Importenceproject\aspcoreangular\aspcoreangular\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+E:\Coding\Importenceproject\aspcoreangular\aspcoreangular\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+E:\Coding\Importenceproject\aspcoreangular\aspcoreangular\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+E:\Coding\Importenceproject\aspcoreangular\aspcoreangular\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\Coding\Importenceproject\aspcoreangular\aspcoreangular\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\Coding\Importenceproject\aspcoreangular\aspcoreangular\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Coding\Importenceproject\aspcoreangular\aspcoreangular\obj\Debug\netcoreapp3.1\aspcoreangular.GeneratedMSBuildEditorConfig.editorconfig
+E:\Coding\Importenceproject\aspcoreangular\aspcoreangular\obj\Debug\netcoreapp3.1\aspcoreangular.AssemblyInfoInputs.cache
+E:\Coding\Importenceproject\aspcoreangular\aspcoreangular\obj\Debug\netcoreapp3.1\aspcoreangular.AssemblyInfo.cs
+E:\Coding\Importenceproject\aspcoreangular\aspcoreangular\obj\Debug\netcoreapp3.1\aspcoreangular.csproj.CoreCompileInputs.cache
+E:\Coding\Importenceproject\aspcoreangular\aspcoreangular\obj\Debug\netcoreapp3.1\aspcoreangular.MvcApplicationPartsAssemblyInfo.cache
+E:\Coding\Importenceproject\aspcoreangular\aspcoreangular\obj\Debug\netcoreapp3.1\staticwebassets\aspcoreangular.StaticWebAssets.Manifest.cache
+E:\Coding\Importenceproject\aspcoreangular\aspcoreangular\obj\Debug\netcoreapp3.1\staticwebassets\aspcoreangular.StaticWebAssets.xml
+E:\Coding\Importenceproject\aspcoreangular\aspcoreangular\obj\Debug\netcoreapp3.1\scopedcss\bundle\aspcoreangular.styles.css
+E:\Coding\Importenceproject\aspcoreangular\aspcoreangular\obj\Debug\netcoreapp3.1\aspcoreangular.RazorTargetAssemblyInfo.cache
+E:\Coding\Importenceproject\aspcoreangular\aspcoreangular\obj\Debug\netcoreapp3.1\aspcoreangular.csproj.CopyComplete
+E:\Coding\Importenceproject\aspcoreangular\aspcoreangular\obj\Debug\netcoreapp3.1\aspcoreangular.dll
+E:\Coding\Importenceproject\aspcoreangular\aspcoreangular\obj\Debug\netcoreapp3.1\aspcoreangular.pdb
+E:\Coding\Importenceproject\aspcoreangular\aspcoreangular\obj\Debug\netcoreapp3.1\aspcoreangular.genruntimeconfig.cache
+E:\Coding\Importenceproject\aspcoreangular\aspcoreangular\obj\Debug\netcoreapp3.1\aspcoreangular.csproj.AssemblyReference.cache

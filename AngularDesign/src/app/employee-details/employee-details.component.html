@@ -1,0 +1,37 @@
+
+<app-employee-form></app-employee-form>
+<table class="table table-hover">
+    <thead class="thead-dark">
+        <tr>
+            <th>Name</th>
+            <th>LastName</th>
+            <th>Email</th>
+            <th>DateOfJoin</th>
+            <th>Age</th>
+            <th> Action</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr *ngFor="let emp of empService.listEmployee">
+     
+            <th>{{emp.name}}</th>
+            <th>{{emp.lastname}}</th>
+            <th>{{emp.email}}</th>
+            <th>{{emp.obj | date:'yyyy-MM-dd'}}</th>
+            <th>{{emp.age}}</th>
+            <th>
+
+                <div class="dropdown">
+                    <button class="btn btn-primary dropdown-toggle" type="button" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                      Action
+                    </button>
+                    <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
+                      <a class="dropdown-item" href="#" (click)="pupulateEmployee(emp)">Edit</a>
+                      <a class="dropdown-item" href="#" (click)="deletes(emp.id)">Delete</a>
+                    </div>
+                  </div>
+
+            </th>
+        </tr>
+    </tbody>
+</table>

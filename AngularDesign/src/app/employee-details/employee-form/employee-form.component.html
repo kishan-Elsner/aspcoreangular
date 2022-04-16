@@ -1,0 +1,135 @@
+<input #checkbox type="checkbox" name="toggle" id="toggle">
+
+<label for="toggle"></label>
+<div class="container">
+
+</div>
+
+<div class="formAdd">
+    <!-- //#myfrom="ngForm" angular ni badhi property use karva mate thay chhe. -->
+    <form autocomplete="off" #myFrom="ngForm" (ngSubmit)="myFrom.form.valid && submit(myFrom )"> 
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-3">
+                        <!--Input fild hidden id ne hold karva mate thay chhe.-->
+                                 <!-- employeeData:Employee=new Employee(); -->
+                        <input type="hidden" name="id" [value]="Emlopyee.employeeData.id">
+                        <label for="name" class="float-left">Name</label>
+                        <div *ngIf="name.invalid && (name.touched || name.dirty)" class="float-right">
+
+                            <p class="text-danger">Required</p>
+                      
+                        </div>
+
+                        <!-- name ni andar aapel chhe te j reference variable ni andar use kariae -->
+                        <input type="text" name="name" class="form-control" placeholder="Enter Name" #name="ngModel" [(ngModel)]="Emlopyee.employeeData.name" required>
+                  
+                    </div>
+                    <div class="col-md-3">
+                        <label for="lastname" class="float-left">Last Name</label>
+                        <div *ngIf="lastname.invalid && (lastname.touched || lastname.dirty)" class="float-right">
+
+                            <p class="text-danger">Required</p>
+                        </div>
+                        <!-- name ni andar aapel chhe te j reference variable ni andar use kariae -->
+                        <input type="text" name="lastname" class="form-control" placeholder="Enter Last Name" #lastname="ngModel" [(ngModel)]="Emlopyee.employeeData.lastname" required>
+                    </div>
+
+
+                    <div class="col-md-3">
+                        <label for="email" class="float-left">Email</label>
+
+                        <div *ngIf="email.invalid && (email.touched || email.dirty)" class="float-right">
+
+                            <p class="text-danger">Required</p>
+                        </div>
+                        <!-- name ni andar aapel chhe te j reference variable ni andar use kariae -->
+                        <input type="email" name="Email" class="form-control" placeholder="Enter Email" #email="ngModel" [(ngModel)]="Emlopyee.employeeData.email" required>
+                    </div>
+
+                    <div class="col-md-3">
+                        <label for="age"  class="float-left">Age</label>
+
+                        <div *ngIf="age.invalid && (age.touched || age.dirty)" class="float-right">
+
+                            <p class="text-danger">Required</p>
+                        </div>
+                        <!-- name ni andar aapel chhe te j reference variable ni andar use kariae -->
+                        <input type="number" name="age" class="form-control" placeholder="Enter Age" #age="ngModel" [(ngModel)]="Emlopyee.employeeData.age" required>
+                    </div>
+
+                     <div class="col-md-3">
+                        <label for="date" >Date</label> 
+                        <!--  name ni andar aapel chhe te j reference variable ni andar use kariae-->
+                        <input type="date" name="objs" class="form-control"  [(ngModel)]="Emlopyee.employeeData.obj"   #objs="ngModel" required>
+                    </div> 
+
+                    <div class="col-md-3">
+                        <label for="designation" class="label" class="float-left">designation</label>
+
+                        <div *ngIf="age.invalid && (designationID.touched || designationID.value==0)" class="float-right">
+
+                            <p class="text-danger">Required</p>
+                        </div>
+                            <select name="designationID"  class="form-control"  #designationID="ngModel" [(ngModel)]="Emlopyee.employeeData.designationID">
+                                <option value="0">
+                                    ----Plase Enter select----
+                                </option>
+                                <option  *ngFor="let desi of Emlopyee.listDesignation" [ngValue]="desi.id">{{ desi.designation }}</option>
+                            </select>
+                       
+                    </div>
+
+                    <div class="col-md-6">
+                         <label for="Gender" class="label">Gender</label>
+
+                         <div class="row">
+                             <div class="col-md-6">
+                                <div class="form-check-inline">
+                                    <label class="form-check-label">
+                                      <input type="radio" class="form-check-input" checked="true" name="gender" value="Male" #gender ="ngModel" [(ngModel)]="Emlopyee.employeeData.gender">Male
+                                    </label>
+                                  </div>
+
+                                  <div class="form-check-inline">
+                                    <label class="form-check-label">
+                                      <input type="radio" class="form-check-input"  name="gender" value="Female" #gender ="ngModel" [(ngModel)]="Emlopyee.employeeData.gender">FeMale
+                                    </label>
+                                  </div>
+                                  
+                             </div>
+                         
+
+                    <div class="col-md-6">
+
+                        <div class="form-check-inline">
+                            <label class="form-check-label">
+                                    <input type="checkbox" class="form-check-input" name="isMarried" #isMarried="ngModel" [(ngModel)]="Emlopyee.employeeData.isMarried">Married
+                            </label>
+                        </div>
+
+                        
+                        <div class="form-check-inline">
+                            <label class="form-check-label">
+                                    <input type="checkbox" class="form-check-input" name="isActive" #isMarried="ngModel" [(ngModel)]="Emlopyee.employeeData.isActive">isActive
+                            </label>
+                        </div>
+                    </div>
+                
+                </div>
+              </div>           
+            </div>
+
+            <div class="row">
+                <div class="col-md-8">  </div>
+                <div class="col-md-2"> 
+                    <button type="submit" [disabled]="designationID.value==0" class="btn btn-success btn-block">save</button>    
+                </div>
+
+                <div class="col-md-2"> 
+                    <button type="submit" class="btn btn-danger btn-block">Cancel</button>    
+                </div>
+            </div>
+        </div>
+    </form>
+</div>
